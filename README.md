@@ -1,5 +1,4 @@
 # smart-excel-json-parser-project
-https://github.com/rahulS9587/loopHealth-Assignment.git
 # Excel to JSON Parser
 
 A full-stack application to convert Excel files to JSON and vice versa. It supports multiple sheets and generates a JSON schema.
